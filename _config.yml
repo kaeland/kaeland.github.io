@@ -1,7 +1,8 @@
 layout: sidebar
 style: light
 
-baseurl: ""
+baseurl: /
+url: http://kaeland.github.io
 
 plugins:
   - jekyll-octicons
