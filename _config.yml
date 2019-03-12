@@ -3,7 +3,7 @@ style: light
 
 # Somehow this fixed the reason why my css was not rendering in deployed mode (production)
 baseurl: /
-url: http://kaeland.github.io
+url: https://kaeland.github.io
 
 plugins:
   - jekyll-octicons
